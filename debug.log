@@ -1,0 +1,7 @@
+[1009/175239.553:ERROR:settings.cc(430)] Settings version is not 5
+[1009/180239.589:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1011/114437.576:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1012/123000.222:ERROR:file_io_win.cc(244)] SetEndOfFile: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+[1012/124840.917:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1014/145932.918:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1017/155108.117:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
